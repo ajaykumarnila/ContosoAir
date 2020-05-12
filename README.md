@@ -4,6 +4,9 @@
 
 # Microsoft.Github CI Demo
 
+## Made package name to *.zip in release pipeline
+
+
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
 
